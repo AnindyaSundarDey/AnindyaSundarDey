@@ -1,5 +1,8 @@
 ### This is Anindya Sundar Dey's Profile 👋
 
+🌱 Currently Learning to become a Full Stack Developer
+📫 Contact me through LinkedIn: https://www.linkedin.com/in/anindya-sundar-dey-383016185/
+
 <!--
 **AnindyaSundarDey/AnindyaSundarDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
